@@ -1,0 +1,19 @@
+# Working notes, not for publication
+HANDOFF.md
+
+# Evidence, ISOs, VM disks, exports (may contain hostnames, hashes, screenshots, configs)
+Evidence/
+*.iso
+*.bz2
+*.vhdx
+*.avhdx
+*.xml
+*.png
+*.jpg
+
+# Secrets and local overrides
+*.pfx
+*.key
+*.pem
+*.env
+*.local.psd1
