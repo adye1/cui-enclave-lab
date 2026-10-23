@@ -70,3 +70,7 @@ An Admin-segment allow-all rule used during build, a temporary DMZ web rule for 
 ## Disclaimer
 
 For education and lab use. Review every script before running it, and do not point it at systems you do not own.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
